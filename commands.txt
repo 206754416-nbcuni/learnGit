@@ -1,3 +1,4 @@
 Here is the list of all the git commands..
 
+git remote add origin - to add the remote url to the local repo
 git init - for initialisation
