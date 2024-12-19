@@ -1,3 +1,5 @@
 Here is the list of all the git commands..
 
 git init - for initialisation
+
+git add . - ldskjsdklfj
