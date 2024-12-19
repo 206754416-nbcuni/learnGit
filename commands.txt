@@ -3,3 +3,5 @@ Here is the list of all the git commands..
 git init - for initialisation
 
 git add . - ldskjsdklfj
+git remote add origin - to add the remote url to the local repo
+git init - for initialisation
